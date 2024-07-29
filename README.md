@@ -1,4 +1,4 @@
-Olá eu sou a IEduardo Arvelino Gomes,
+Olá eu sou a Eduardo Arvelino Gomes,
 Com uma paixão incansável pelo que faço e inspirado pelo "Brio"
 <div style="display: inline_block"><br><br>Infraestrutura - IaC <br><br>
   <img align="center" alt="Eduardo-ANSIBLE" height="30" width="40" src="https://www.svgrepo.com/show/305708/ansible.svg">
