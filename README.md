@@ -8,5 +8,6 @@ Olá eu sou o Eduardo Arvelino Gomes,
   <img align="center" alt="Eduardo-tailwindcss" height="30" width="40" src="https://www.svgrepo.com/show/349419/javascript.svg">
   <img align="center" alt="Eduardo-KUBE" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/kubernetes.svg">
   <img align="center" alt="EduardoR-ELASTIC" height="30" width="40" src="https://www.svgrepo.com/show/448221/docker.svg">
-  <img align="center" alt="Eduardo-FOGUETE" height ="30" width="40" src="https://www.svgrepo.com/show/530572/accelerate.svg"
+  <img align="center" alt="Eduardo-FOGUETE" height ="30" width="40" src="https://www.svgrepo.com/show/530572/accelerate.svg">
+  <img align="center" alt="Eduardo-JAVA" height ="30" width="40" src="https://www.svgrepo.com/show/303654/java-logo.svg">
 </div>
