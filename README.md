@@ -53,8 +53,6 @@ const eduardo = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=earvelino2&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&cache_seconds=1800"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=earvelino2&layout=compact&langs_count=7&theme=react&hide_border=true&bg_color=0D1117&cache_seconds=1800"/>
 </div>
 
 <div align="center">
