@@ -25,7 +25,6 @@ const eduardo = {
   cargo:      "Desenvolvedor Frontend",
   foco:       ["React", "JavaScript", "UI/UX"],
   paixão:     "Transformar ideias em interfaces incríveis",
-  status:     "Sempre codando algo novo... ⚡"
 };
 ```
 
