@@ -24,7 +24,6 @@ const eduardo = {
   nome:       "Eduardo Arvelino Gomes",
   cargo:      "Desenvolvedor Frontend",
   foco:       ["React", "JavaScript", "UI/UX"],
-  paixão:     "Transformar ideias em interfaces incríveis",
 };
 ```
 
