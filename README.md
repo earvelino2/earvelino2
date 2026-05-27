@@ -85,7 +85,7 @@ const eduardo = {
 
 ---
 
-*"Bom código é como uma boa piada — não precisa de explicação."*
+
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=earvelino2&color=61DAFB&style=flat-square&label=Visitas+no+perfil)
 
