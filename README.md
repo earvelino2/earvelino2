@@ -48,15 +48,6 @@ const eduardo = {
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=earvelino2&theme=react&hide_border=true&background=0D1117" />
-</div>
-
 ---
 
 ## 🚀 Projetos em Destaque
