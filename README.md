@@ -59,8 +59,6 @@ const eduardo = {
 
 ---
 
-## 📈 Atividade
-
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=earvelino2&theme=react-dark&hide_border=true&bg_color=0D1117" />
 </div>
