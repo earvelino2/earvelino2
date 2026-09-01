@@ -58,11 +58,6 @@ const eduardo = {
 | 🖥️ **Totem Autoatendimento** | Totem de autoatendimento com impressão térmica | Electron · Express · JWT |
 
 ---
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=earvelino2&theme=react-dark&hide_border=true&bg_color=0D1117" />
-</div>
-
 ---
 
 <div align="center">
